@@ -1,2 +1,2 @@
 # Second-challenge-DIO.me
-My second challenge on Dio.me
+Second challenge by Dio.me, where we were challenged to create a ranked classification of a game.
